@@ -22,9 +22,8 @@ import team4 from "assets/images/team-4.jpg";
 
 export default [
   {
-    image: kal,
-    name: "Sophie B.",
-    description: "Hi! I need more information..",
+    image: marie,
+    name: "NURMISBA",
     action: {
       type: "internal",
       route: "/pages/profile/profile-overview",
@@ -33,9 +32,8 @@ export default [
     },
   },
   {
-    image: marie,
-    name: "Anne Marie",
-    description: "Awesome work, can you..",
+    image: kal,
+    name: "ALVIAN SYAH BURHANI",
     action: {
       type: "internal",
       route: "/pages/profile/profile-overview",
@@ -45,8 +43,7 @@ export default [
   },
   {
     image: ivana,
-    name: "Ivanna",
-    description: "About files I can..",
+    name: "A. IKRAM MUKARRAM",
     action: {
       type: "internal",
       route: "/pages/profile/profile-overview",
@@ -56,19 +53,7 @@ export default [
   },
   {
     image: team4,
-    name: "Peterson",
-    description: "Have a great afternoon..",
-    action: {
-      type: "internal",
-      route: "/pages/profile/profile-overview",
-      color: "info",
-      label: "reply",
-    },
-  },
-  {
-    image: team3,
-    name: "Nick Daniel",
-    description: "Hi! I need more information..",
+    name: "Fajar Apriliwan",
     action: {
       type: "internal",
       route: "/pages/profile/profile-overview",
